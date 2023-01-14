@@ -1,6 +1,8 @@
 body {
   padding: 0;
   text-align: center;
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
 .game-intro {
